@@ -1254,11 +1254,11 @@ define("com/adventurecapitalist/adventureCapitalist", ["require", "exports", "gs
         }
         configRouter() {
             return new router_1.Router(game_12.Game.app.stage, [{
+                    isDefault: true,
                     path: "intro",
                     type: routerOption_2.RouterOptionType.NORMAL,
                     component: intro_1.Intro
                 }, {
-                    isDefault: true,
                     path: "companies",
                     type: routerOption_2.RouterOptionType.NORMAL,
                     component: companies_1.Companies
