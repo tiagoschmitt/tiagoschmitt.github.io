@@ -1,0 +1,124 @@
+{"frames": {
+
+"adventurelogo":
+{
+	"frame": {"x":1,"y":1,"w":410,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":410,"h":400},
+	"sourceSize": {"w":410,"h":400}
+},
+"bank":
+{
+	"frame": {"x":413,"y":191,"w":79,"h":72},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":79,"h":72},
+	"sourceSize": {"w":79,"h":73}
+},
+"carWash":
+{
+	"frame": {"x":334,"y":487,"w":99,"h":73},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":73},
+	"sourceSize": {"w":99,"h":73}
+},
+"close":
+{
+	"frame": {"x":265,"y":403,"w":108,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":108,"h":82},
+	"sourceSize": {"w":114,"h":87}
+},
+"donutShop":
+{
+	"frame": {"x":197,"y":555,"w":85,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":85,"h":54},
+	"sourceSize": {"w":87,"h":58}
+},
+"hockeyTeam":
+{
+	"frame": {"x":265,"y":487,"w":63,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":63,"h":67},
+	"sourceSize": {"w":91,"h":76}
+},
+"investmentFrame":
+{
+	"frame": {"x":113,"y":403,"w":150,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":150},
+	"sourceSize": {"w":150,"h":150}
+},
+"lemonadeStand":
+{
+	"frame": {"x":113,"y":555,"w":82,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":82,"h":57},
+	"sourceSize": {"w":83,"h":63}
+},
+"logo":
+{
+	"frame": {"x":1,"y":403,"w":208,"h":110},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":208,"h":110},
+	"sourceSize": {"w":208,"h":110}
+},
+"movieStudio":
+{
+	"frame": {"x":413,"y":359,"w":70,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":3,"w":70,"h":75},
+	"sourceSize": {"w":74,"h":78}
+},
+"newspaperDelivery":
+{
+	"frame": {"x":413,"y":1,"w":99,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":99,"h":62},
+	"sourceSize": {"w":99,"h":65}
+},
+"oilCompany":
+{
+	"frame": {"x":413,"y":102,"w":87,"h":66},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":87,"h":66},
+	"sourceSize": {"w":93,"h":68}
+},
+"pizzaDelivery":
+{
+	"frame": {"x":413,"y":272,"w":85,"h":62},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":85,"h":62},
+	"sourceSize": {"w":87,"h":65}
+},
+"shrimpBoat":
+{
+	"frame": {"x":409,"y":436,"w":74,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":74,"h":80},
+	"sourceSize": {"w":75,"h":85}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":486,"h":613},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bd10f091419538dae7fc72ce24accae8:f0b8e17b76b92d6c5fde49cf5cb3f6c9:a759b6bbc8381ac9c472b28f589ad0d6$"
+}
+}
