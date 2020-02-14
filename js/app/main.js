@@ -915,7 +915,7 @@ define("com/adventurecapitalist/components/display/company/companyItem", ["requi
             hireManagerBtn.x = 315;
             hireManagerBtn.y = 0;
             var buyBtn = game_8.Game.displayFactory.create(this.id, buyButton_1.BuyButton);
-            //this.add(buyBtn);
+            this.add(buyBtn);
             buyBtn.x = 150;
             buyBtn.y = 8;
         }
